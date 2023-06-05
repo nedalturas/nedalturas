@@ -28,7 +28,7 @@ Note: I will add more once done.
 <br />
 
 <div style="background-color: black; width: 150px; height: 100px; text-align: center; line-height: 100px; border-radius: 20px;">
-    <a href="">EBH Info Base</a>
+    <a href="https://ebh-info-base.pages.dev/">EBH Info Base</a>
 </div>
 <br />
 
