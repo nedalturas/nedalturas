@@ -1,9 +1,6 @@
 # 😎 Ned Alturas
 
 Developer in Progress 😉
-![progress-icon-gif-0 style=="height: 100px; width: 100px;"](https://github.com/nedalturas/nedalturas/assets/20468024/0b43bc81-a960-44f1-8363-86d3ac374992)
-
-
 
 I'm an aspiring web developer that continuously learns throughout the process. I relly like to process every code I write as it helps me to write code more beautifully than before, If I ever had a cringe reaction to my previous codes that means I learned something. 
 
