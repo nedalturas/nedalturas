@@ -6,7 +6,8 @@ I'm an aspiring web developer that continuously learns throughout the process. I
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedalturas)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedalturas)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nedalturas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ned's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedalturas&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #
 ### 💻 Languages and Tools
