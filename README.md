@@ -6,7 +6,7 @@ I'm an aspiring web developer that continuously learns throughout the process. I
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nedalturas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ned's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedalturas&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nedalturas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=000000" alt="Ned's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedalturas&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #
