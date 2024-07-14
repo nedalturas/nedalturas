@@ -4,6 +4,10 @@ Developer in Progress 😉
 
 I'm an aspiring web developer that continuously learns throughout the process. I relly like to process every code I write as it helps me to write code more beautifully than before, If I ever had a cringe reaction to my previous codes that means I learned something. 
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedalturas)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 ### 💻 Languages and Tools
 
